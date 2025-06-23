@@ -1,0 +1,1 @@
+All pages for MobileTheatre.in. Upload to GitHub, then deploy with Vercel.
